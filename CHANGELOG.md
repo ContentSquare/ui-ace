@@ -1,3 +1,11 @@
+<a name="0.2.4"></a>
+### 0.2.4 (2017-06-23)
+
+
+#### Bug Fixes
+
+* use basePath to force ace to look for all workers and themes in the folder you specify
+
 <a name="0.2.3"></a>
 ### 0.2.3 (2015-01-29)
 
